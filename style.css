@@ -1,0 +1,52 @@
+body{
+    font-family: 'Merriweather';
+    color:white;
+    margin: 0;
+    background: url(assets/Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1, h2, h3, h4, p{
+    margin: 0;
+}
+a{
+    color:white;
+}
+#top{
+    background-color: #8080FF;
+    color:whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+  }
+img {
+    border-radius: 50%;
+    border: solid 3px white;
+    margin: 10px 0px 100px 0px;
+}
+h2{
+    margin-left: 100px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.info{
+    margin-left: 120px;
+    margin-bottom: 80px;
+    font-size: 20px;
+}
+.hobby{
+    margin-left:100px;
+    margin-bottom: 80px;
+    font-size: 25px;
+}
+#bottom{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
