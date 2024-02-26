@@ -76,14 +76,14 @@ footer {
     border-radius: 8px;
 }
 
-.footer a {
+footer a {
     color: #333;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease-in-out; /* Hiệu ứng khi hover */
 }
 
-.footer a:hover {
+footer a:hover {
     text-decoration: underline;
     color: #ff0066; /* Màu hồng khi hover */
 }
