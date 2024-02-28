@@ -2,66 +2,64 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #f5f5f5;
-  }
+	background-color: #d4d4d4;
+}
   
-  .container {
+.main {
 	max-width: 800px;
 	margin: 20px auto;
-	background-color: #fff;
+	background-color: #ffffff;
 	border-radius: 8px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+	box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.1);
+}
   
-  header {
+header {
 	text-align: center;
-	padding: 20px;
-	background-color: #333;
-	border-top-left-radius: 8px;
-	border-top-right-radius: 8px;
+	padding: 5px;
+	background-color: #4c4c4c;
+	border-radius: 8px;
 	color: #fff;
-  }
+}
   
-  .profile-img {
+.profile-img {
 	text-align: center;
-	margin-top: 20px;
-	margin-bottom: 20px;
-  }
+	margin: 20px 0px 20px 0px;
+}
   
-  .profile-img img {
+.profile-img img {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	border: 5px solid #fff;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+	border: 4px solid #333;
+	box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
+}
   
-  .profile-info {
+.profile-info {
 	padding: 20px;
-  }
+}
   
-  .profile-info h2 {
+.profile-info h2 {
 	color: #333;
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 10px;
-  }
+}
   
-  .profile-info p {
+.profile-info p {
 	color: #666;
 	line-height: 1.5;
-  }
+}
   
-  .profile-info ul {
+.profile-info ul {
 	list-style: none;
 	padding: 0;
-  }
+}
   
-  .profile-info ul li {
+.profile-info ul li {
 	margin-bottom: 5px;
 	color: #666;
-  }
-  a{
+}
+.profile-info a{
 	text-decoration: none;
 	color:#333;
-  }
+}
   
