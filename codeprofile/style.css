@@ -32,8 +32,9 @@ p{
     cursor: pointer;
 }
 .button:hover{
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: antiquewhite;
+;
 }
 h1 {
     font-family: 'Pacifico', cursive;
